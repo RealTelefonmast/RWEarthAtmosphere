@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	
+	<TeleCore.NetworkValueDef>
+		<defName>Network_Oxygen</defName>
+		<label>oxygen</label>
+		<labelShort>O2</labelShort>
+		<collectionDef>AtmosphericNetwork</collectionDef>
+		<valueColor>(140, 230, 255)</valueColor>
+	</TeleCore.NetworkValueDef>
+
+	<TeleCore.NetworkValueDef>
+		<defName>Network_Nitrogen</defName>
+		<label>nitrogen</label>
+		<labelShort>N2</labelShort>
+		<collectionDef>AtmosphericNetwork</collectionDef>
+		<valueColor>(0, 0, 204)</valueColor>
+	</TeleCore.NetworkValueDef>
+	
+	<TeleCore.NetworkValueDef>
+		<defName>Network_CarbonDioxide</defName>
+		<label>carbon dioxide</label>
+		<labelShort>CO2</labelShort>
+		<collectionDef>AtmosphericNetwork</collectionDef>
+		<valueColor>(128, 0, 128)</valueColor>
+	</TeleCore.NetworkValueDef>
+	
+	<TeleCore.NetworkValueDef>
+		<defName>Network_Argon</defName>
+		<label>argon</label>
+		<labelShort>Ar</labelShort>
+		<collectionDef>AtmosphericNetwork</collectionDef>
+		<valueColor>(224, 176, 255)</valueColor>
+	</TeleCore.NetworkValueDef>
+	
+	<TeleCore.NetworkValueDef>
+		<defName>Network_Neon</defName>
+		<label>neon</label>
+		<labelShort>Ne</labelShort>
+		<collectionDef>AtmosphericNetwork</collectionDef>
+		<valueColor>(255, 79, 0)</valueColor>
+	</TeleCore.NetworkValueDef>
+	
+	<TeleCore.NetworkValueDef>
+		<defName>Network_Helium</defName>
+		<label>helium</label>
+		<labelShort>He</labelShort>
+		<collectionDef>AtmosphericNetwork</collectionDef>
+		<valueColor>(255, 255, 0)</valueColor>
+	</TeleCore.NetworkValueDef>
+	
+	<TeleCore.NetworkValueDef>
+		<defName>Network_Methane</defName>
+		<label>methane</label>
+		<labelShort>CH4</labelShort>
+		<collectionDef>AtmosphericNetwork</collectionDef>
+		<valueColor>(0, 255, 255)</valueColor>
+	</TeleCore.NetworkValueDef>
+	
+</Defs>
